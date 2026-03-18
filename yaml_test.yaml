@@ -1,0 +1,9 @@
+name: 이창원
+addr: 인천
+foods:
+  - 피자
+  - 치킨
+isMan: true
+body:
+  height: 183
+  weight: 85
